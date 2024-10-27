@@ -1,4 +1,4 @@
-# Campers Catalog
+# Travel Trucks
 
 A React.js application that displays a catalog of campers, allowing users to filter results, view detailed camper information, add campers to favorites, and submit bookings. This project integrates Redux for state management and pulls data from a backend API.
 
